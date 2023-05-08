@@ -1,4 +1,4 @@
-### Hi there 👋
+**Benvindo ao meu perfil** 💙
 
 <!--
 **kauany049/kauany049** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
